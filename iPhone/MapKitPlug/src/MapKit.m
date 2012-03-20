@@ -189,7 +189,6 @@
 	{
 		[self createView];
 	}
-    NSLog(@"hello");
 	self.childView.hidden = NO;
 	self.mapView.showsUserLocation = YES;
 }
